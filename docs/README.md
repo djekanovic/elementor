@@ -79,6 +79,7 @@ Elementor includes a wide array of controls:
 * [Text Shadow](content/controls/_text-shadow.md) - Add a shadow effect to a text inside your element.
 * [Entrance Animation](content/controls/_animation.md) - Choose an entrance animation type from a list of animations.
 * [Hover Animation](content/controls/_hover-animation.md) - Choose a hover animation type from a list of animations. (coming soon)
+* [Typography](https://github.com/pojome/elementor/blob/1b9044ebd84d86ef1402a8997d4fed1c7ae72a84/docs/content/controls/_group_control_typography.md) - Extend Plugin with Typography Options.
 
 ##### Panel UI Controls
 
